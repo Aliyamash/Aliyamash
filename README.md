@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Ali
 
 ## 🚀 About Me  
-I'm **Ali Yamash**, a **Software Engineer** and **Founder of [Trustence](https://trustenceagency.com)**.  
+I'm **Ali Ashrafi**, a **Software Engineer** and **Founder of [Trustence](https://trustenceagency.com)**.  
 I specialize in building modern, creative, and scalable web applications using the latest technologies.  
 
 ---

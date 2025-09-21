@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ali
+# 👋 Hi there! Nice to see you
 
 ## 🚀 About Me  
 I'm **Ali Ashrafi**, a **Software Engineer** and **Founder of [Trustence](https://trustenceagency.com)**.  

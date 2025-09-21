@@ -18,12 +18,8 @@ I specialize in building modern, creative, and scalable web applications using t
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliyamash&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyamash&layout=compact&theme=radical)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aliyamash&theme=radical&hide_border=true)  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliyamash&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyamash&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Aliyamash&theme=radical&hide_border=true) 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aliyamash&theme=radical)  
 
 🔹 Number of public repositories:  
